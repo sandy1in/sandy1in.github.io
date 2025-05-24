@@ -526,6 +526,17 @@ header .navbar ul li a:hover {
     color: var(--yellow);
     text-decoration: none;
 }
+.box ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+  color: #fff;
+  font-size: 1.6rem;
+}
+
+.box ul li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
 
 .top {
     position: fixed;
